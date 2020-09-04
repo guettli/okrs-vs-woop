@@ -2,9 +2,11 @@
 
 [OKRs](https://en.wikipedia.org/wiki/OKR) are well-known. According to Google there are 18 million pages contain this term.
 Objectives and key results (OKR) is a goal-setting framework for defining and tracking objectives and their outcomes.
+Book: [Measure What Matters](https://www.whatmatters.com/the-book/)
 
 [WOOP](https://woopmylife.org/) is less well-known. According to Google there are 6 million pages.
-WOOP (Wish, Outcome, Obstacle, Plan) is a science-based mental strategy that people can use to find and fulfill their wishes, set preferences, and change their habits.
+WOOP (Wish, Outcome, Obstacle, Plan) is a science-based mental strategy that people can use to find and fulfill their wishes, set preferences, and change their habits. 
+Book: [Rethinking Positive Thinking](https://www.penguinrandomhouse.com/books/315221/rethinking-positive-thinking-by-gabriele-oettingen/)
 
 
 # Context
@@ -55,8 +57,4 @@ It is good to have a plan. I love it.
 # Conclusion
 
 My personal, biased perspective: I prefer WOOP.
-
-
-
-# Objectives
 
