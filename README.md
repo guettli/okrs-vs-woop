@@ -58,3 +58,6 @@ It is good to have a plan. I love it.
 
 My personal, biased perspective: I prefer WOOP.
 
+# WOL
+
+More if my thoughts at [Thomas Working-out-loud](https://github.com/guettli/wol)
