@@ -60,4 +60,4 @@ My personal, biased perspective: I prefer WOOP.
 
 # WOL
 
-More if my thoughts at [Thomas Working-out-loud](https://github.com/guettli/wol)
+More of my thoughts at [Thomas Working-out-loud](https://github.com/guettli/wol)
